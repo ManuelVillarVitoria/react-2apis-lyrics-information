@@ -11,7 +11,7 @@ _3.-Displaying the results of the APIS in the DOM._
 _- Have been used **Functional Components**, **Hooks useState & useEffect** and  **Axios + Async/Await** in this project._
 
 
-* ### `Deployment:`
+* ### `Deployment:` **https://eloquent-kepler-17ece7.netlify.app**
 
 
 ## Settings 🔧
